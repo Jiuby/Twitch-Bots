@@ -1,0 +1,13 @@
+Opciones Video Codec:
+´"h264_nvenc": NVIDIA GPU, H.264
+"hevc_nvenc": NVIDIA GPU, H.265
+"h264_qsv": Intel GPU, H.264
+"h264_amf": AMD GPU, H.264
+"hevc_amf": AMD GPU, H.265
+
+video_codec = h264_nvenc
+video_preset = medium
+resolution = 640:360
+fps = 60
+bitrate_video = 4500k
+bitrate_audio = 160k

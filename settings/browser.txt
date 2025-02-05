@@ -1,0 +1,3 @@
+Opciones: chrome, msedge, firefox, opera
+browser=chrome
+opera_path=C:\Users\Salvador\AppData\Local\Programs\Opera\opera.exe
